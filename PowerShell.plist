@@ -14,6 +14,8 @@
 	<string>PowerShell</string>
 	<key>BBLMScansFunctions</key>
 	<true/>
+	<key>BBLMSupportsTextCompletion</key>
+	<true/>
 	<key>BBLMPreferredFilenameExtension</key>
 	<string>ps1</string>
 	<key>BBLMSuffixMap</key>
