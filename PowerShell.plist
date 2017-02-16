@@ -50,9 +50,9 @@
 		<key>End-of-line Ends Strings 2</key>
 		<false/>
 		<key>Escape Char in Strings 1</key>
-		<string>\</string>
+		<string>`</string>
 		<key>Escape Char in Strings 2</key>
-		<string>\</string>
+		<string></string>
 		<key>Identifier and Keyword Characters</key>
 		<string>&amp;%!?$-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz</string>
 		<key>Open Block Comments</key>
@@ -80,6 +80,7 @@
 	<array>
 		<string>begin</string>
 		<string>break</string>
+		<string>catch</string>
 		<string>case</string>
 		<string>default</string>
 		<string>do</string>
@@ -88,6 +89,7 @@
 		<string>end</string>
 		<string>exit</string>
 		<string>filter</string>
+		<string>finally</string>
 		<string>for</string>
 		<string>foreach</string>
 		<string>function</string>
@@ -101,6 +103,7 @@
 		<string>then</string>
 		<string>throw</string>
 		<string>trap</string>
+		<string>try</string>
 		<string>until</string>
 		<string>while</string>
 		<string>Add-Computer</string>
