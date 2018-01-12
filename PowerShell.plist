@@ -82,6 +82,7 @@
 		<string>break</string>
 		<string>catch</string>
 		<string>case</string>
+		<string>continue</string>
 		<string>default</string>
 		<string>do</string>
 		<string>else</string>
